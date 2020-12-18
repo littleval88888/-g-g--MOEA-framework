@@ -1,1 +1,1 @@
-Two-stage ρg / μg -MOEA framework is based on
+The code is based on the flowchart of rou_g/miu_g-MOEA constraints handling method. The proposed method is used during the selection process to find a better solution considering constraints viloations and number of violated constraints. alfa is the output refering to the selction results. The method is divided into two stages, namely rou_g-based stage and miu_g-based stage.
